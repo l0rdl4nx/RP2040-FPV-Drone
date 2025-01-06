@@ -15,7 +15,7 @@ The second (not final) revision of the main code. Used to test user interaction 
 ## Hardware
 ### Gerber Production files
 Production files for the main flight controller PCB. They can be viewed by any offline or online gerber viewer.
-![[hardware/pictures/FC_Drone.png]]
+![A KiCad render of the board](https://github.com/l0rdl4nx/RP2040-FPV-Drone/blob/main/hardware/pictures/FC_Drone.png?raw=true)
 ### Frame .stl's
 An .stl export of my frame-design. The main frame was created from CNC cut carbon fiber plates. Can be viewed in any 3D-Viewer (Windows own 3D-Viewer should work just fine).
 
