@@ -1,4 +1,4 @@
-> ![Warning]
+> [Warning]
 > All contents of this repo are still a WIP (work in progress) and not be used for any other than illustrative purposes!
 
 # RP2040-FPV-Drone
