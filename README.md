@@ -1,6 +1,6 @@
 > [!Warning]
-> All contents of this repo are still a WIP (work in progress) and not be used for any other than illustrative purposes!
-> I do not take responsibility for any damages resulting in the usage of my published project files.
+> All contents of this repo are still a WIP (work in progress) and not meant to be used for any other than illustrative purposes!
+> I do not take responsibility for any damages resulting in the usage of project files.
 
 # RP2040-FPV-Drone 
 
@@ -8,7 +8,7 @@ A temporary snapshot of the firmware, PCB production files for the main board an
 
 ## Firmware
 ### rev1
-The first revision of the main code. Mainly to test out sensors and functionality. Written in Arduino IDE
+The first revision of the main code. Mainly to test out sensors and functionality. Written in Arduino IDE.
 ### rev2
 The second (not final) revision of the main code. Used to test user interaction and more object oriented. Written in VS Code using PlatformIO.
 
