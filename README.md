@@ -1,5 +1,6 @@
 > [!Warning]
 > All contents of this repo are still a WIP (work in progress) and not meant to be used for any other than illustrative purposes!
+> Most of the code is deprecated by over a year (I switched to a private git host), so don't expect ANYTHING.
 > I do not take responsibility for any damages resulting in the usage of project files.
 
 # RP2040-FPV-Drone 
